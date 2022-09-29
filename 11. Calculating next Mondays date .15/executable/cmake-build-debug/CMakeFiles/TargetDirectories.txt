@@ -1,0 +1,3 @@
+C:/Users/gisle/Desktop/GitHub/c/11. Calculating next Mondays date .15/executable/cmake-build-debug/CMakeFiles/executable.dir
+C:/Users/gisle/Desktop/GitHub/c/11. Calculating next Mondays date .15/executable/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gisle/Desktop/GitHub/c/11. Calculating next Mondays date .15/executable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
